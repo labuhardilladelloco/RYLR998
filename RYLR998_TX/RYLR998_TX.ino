@@ -13,11 +13,11 @@ void setup(){
   pinMode(led,OUTPUT);
   
   /*delay(1500);
-  Serial_2.println("AT+BAND=" + lora_band);
+  Serial2.println("AT+BAND=" + lora_band);
   delay(500);
-  Serial_2.println("AT+ADDRESS=" + lora_address);
+  Serial2.println("AT+ADDRESS=" + lora_address);
   delay(500);
-  Serial_2.println("AT+NETWORKID=" + lora_networkid);
+  Serial2.println("AT+NETWORKID=" + lora_networkid);
   delay(1500);
   */
 
